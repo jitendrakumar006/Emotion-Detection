@@ -22,7 +22,7 @@ Lightweight and easy to use
 
 Works on Windows/Linux/Mac
 
-🛠️ Technologies Used
+🛠️ Technologies Used in project
 
 Python
 
