@@ -1,6 +1,6 @@
 Emotion Detection Project
 
-Detect emotions from real-time video using Python, OpenCV, and DeepFace
+Detect emotions from real-time video using Python, OpenCV, and DeepFace and other technology
 
 📌 Overview
 
