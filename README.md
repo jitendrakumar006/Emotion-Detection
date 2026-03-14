@@ -18,7 +18,7 @@ Mobile IP Camera support
 
 Automatic face detection
 
-Lightweight and easy to use
+Lightweight and easy to use.
 
 Works on Windows/Linux/Mac
 
