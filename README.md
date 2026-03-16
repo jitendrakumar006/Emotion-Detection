@@ -8,7 +8,7 @@ Yeh project webcam/mobile camera feed se human emotions detect karta hai.
 DeepFace library ka use karke Face Detection + Emotion Classification hota hai.
 
 Supported Emotions:
-😄 Happy | 😢 Sad | 😡 Angry | 😐 Neutral | 😲 Surprise | 😨 Fear | 🤢 Disgust
+😄 Happy | 😢 Sad | 😡 Angry | 😐 Neutral | 😲 Surprise | 😨 Fear |  Disgust
 
 🚀 Features
 
