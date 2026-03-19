@@ -12,7 +12,7 @@ Supported Emotions:
 
 🚀 Features
 
-Real-time emotion detection
+Real-time emotion detection.
 
 Mobile IP Camera support
 
