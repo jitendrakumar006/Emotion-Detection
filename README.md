@@ -20,7 +20,7 @@ Automatic face detection
 
 Lightweight and easy to use.
 
-Works on Windows/Linux/Mac,-
+Works on Windows/Linux/Mac,
 
 🛠️ Technologies Used in project
 
