@@ -2,7 +2,7 @@ Emotion Detection Project
 
 Detect emotions from real-time video using Python, OpenCV, and DeepFace and other technology
 
-📌 Overview
+ Overview
 
 Yeh project webcam/mobile camera feed se human emotions detect karta hai.
 DeepFace library ka use karke Face Detection + Emotion Classification hota hai.
